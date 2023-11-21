@@ -1,0 +1,18 @@
+.greet-container{
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 100px auto;
+    display: block;
+    box-shadow: 0 2px 20px 0 rgb(121, 121, 121);
+    width: 600px;
+    border-radius: 10px;
+
+}
+.to-text{
+    text-align: start;
+
+}
+.from-text{
+    text-align: end;
+    
+}
